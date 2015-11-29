@@ -2,9 +2,11 @@
 /* Index Styles */
 body{
 	background: black;
-	color: #00f900;
+	color: #ffff66;
 	font-family: Courier;
 }
+
+
 
 a {
 	color: #ff40ff;
@@ -16,6 +18,10 @@ a {
 header img {
 	max-width: 100%;
 	position: relative;
+}
+
+header span {
+	color: #FFFFFF;
 }
 
 .social-icons {
@@ -44,8 +50,12 @@ header h1, header h2 {
 	float: left;
 }
 
-.about p {
-	
+ul li {
+	list-style: none;
+}
+
+h1, h2, span {
+	color: #00f900;
 }
 
 .portfolio {
