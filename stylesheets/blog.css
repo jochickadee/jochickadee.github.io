@@ -1,0 +1,36 @@
+/* Blog Styles */
+
+nav, .posts {
+	padding: 0 20px;
+	margin: 0 5%;
+}
+
+nav {
+	padding-top: 10px;
+}
+
+.posts {
+	float: left;
+}
+
+footer {
+	clear: both;
+}
+
+section {
+	max-width: 75%;
+}
+
+section,
+.posts h4 {
+	color: #cccccc;
+}
+
+.posts h1, 
+.posts h2 {
+	color: #00fdff;
+}
+
+#fix {
+	float: right;
+}

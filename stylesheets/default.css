@@ -63,9 +63,8 @@ h1, h2, span {
 }
 
 .portfolio img {
-	position: relative;
-	display: inline-block;
 	border-radius: 25px;
+	max-width: 300px;
 }
 
 footer div {
@@ -77,4 +76,9 @@ footer div {
 	text-align: center;
 	padding: 5px;
 	margin: 5px;
+}
+
+footer p {
+	font-size: 10px;
+	color: #9933ff;
 }
